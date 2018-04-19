@@ -185,8 +185,8 @@ class Settings
         val filterScope_Key : String = Input.Keys.toString(Input.Keys.NUMPAD_6),
         val filterAmmo_Key : String = Input.Keys.toString(Input.Keys.NUMPAD_7),
 
-        val camera_zoom_Minus_Key : String = Input.Keys.toString(Input.Keys.MINUS),
-        val camera_zoom_Plus_Key : String = Input.Keys.toString(Input.Keys.PLUS),
+        val camera_zoom_Minus_Key : String = Input.Keys.toString(Input.Keys.9),
+        val camera_zoom_Plus_Key : String = Input.Keys.toString(Input.Keys.0),
 
 
         //
